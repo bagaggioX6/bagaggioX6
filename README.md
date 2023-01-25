@@ -3,7 +3,4 @@
 </div>
 <hr/>
 
-<div align="center">
-  <img height="150rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bagaggioX6&&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="150rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bagaggioX6&layout=compact&langs_count=16&theme=outrun"/>
-</div>
+
